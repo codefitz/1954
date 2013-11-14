@@ -1,37 +1,19 @@
-cloud-to-butt
-=============
+1954
+====
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+A fork of 'cloud-to-butt' Chrome extension, putting an retro-Orwellian spin on your browsing experience.
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Replaces:
+'email' -> 'post'
+'chat'/'skype' -> 'private conversation'
+'sms' -> 'telegram'
+and a few other goodies...
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_
-extension replaces only the phrase described above. Thank you for your concern.
+Why 1954?
+---------
 
-Screenshot Gallery
-------------------
+30 years before the title year of George Orwells infamous novel, is when most of the people who run the world were born. This was an era when Western countries had more freedom and Western governments scorned Eastern governments for their communist ideals and treatment of their own citizens. The thought that your government might be monitoring your private conversation or reading your private mail would have been shocking and unacceptable - something only evil communist governments would be capable of.
 
-http://www.flickr.com/groups/cloud-to-butt/
+And yet here we are - welcome to 1954 if the leaders of 2014 ruled 60 years ago.
 
-Installation
-------------
-
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+Also - shut up those commies that defend their governments oppressive actions.

@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "1954",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces certain text in your browser for 1950's Orwellian retro synonyms.",
 	"content_scripts": 
 	[
 		{
